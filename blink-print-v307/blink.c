@@ -1,4 +1,4 @@
-#include "ch32v003fun.h"
+#include "ch32fun.h"
 #include <stdio.h>
 
 #define plpg_fclk 8000000
